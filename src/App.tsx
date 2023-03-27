@@ -12,6 +12,7 @@ function App() {
           <Routes>
             <Route path="/" element={<MainContainer />} />
             <Route path="/result" element={<ResultContainer />} />
+            <Route path="*" element={<MainContainer />} />
           </Routes>
         </Router>
 
