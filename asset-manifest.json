@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bulgarhistory/static/css/main.46d727a1.css",
-    "main.js": "/bulgarhistory/static/js/main.fc2fc7ff.js",
+    "main.js": "/bulgarhistory/static/js/main.535b6cdc.js",
     "index.html": "/bulgarhistory/index.html",
     "main.46d727a1.css.map": "/bulgarhistory/static/css/main.46d727a1.css.map",
-    "main.fc2fc7ff.js.map": "/bulgarhistory/static/js/main.fc2fc7ff.js.map"
+    "main.535b6cdc.js.map": "/bulgarhistory/static/js/main.535b6cdc.js.map"
   },
   "entrypoints": [
     "static/css/main.46d727a1.css",
-    "static/js/main.fc2fc7ff.js"
+    "static/js/main.535b6cdc.js"
   ]
 }
