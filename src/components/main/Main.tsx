@@ -72,7 +72,6 @@ const Main: React.FC<typeForMain> = ({ id, question, answer1, answer2, answer3, 
             <ButtonContainer
                 id={id}
                 text={leaveForLater ? 'вопрос отложен' : 'ответить позже'}
-
             />
         </div>
     );
